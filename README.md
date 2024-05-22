@@ -1,5 +1,10 @@
 # AngularApp
 
+## Purpose
+
+This is an example how to build an publish an angular app with docker
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
